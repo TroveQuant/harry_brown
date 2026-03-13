@@ -1,0 +1,9 @@
+matplotlib
+numpy
+openpyxl
+pandas
+pyarrow
+requests
+tabulate
+tqdm
+tushare
