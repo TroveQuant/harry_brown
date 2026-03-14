@@ -3,7 +3,7 @@ name: Run Daily Strategies
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 13 * * *'
+    - cron: '0 11 * * 1-5'
 
 permissions:
   contents: write
